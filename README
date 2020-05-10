@@ -20,8 +20,8 @@ Réalisation d’une application de jeu de questionnaires. appartire de la quel 
 ---mot de passe : admin
 
 ----------Tous les paramètres de connexion pour le teste du projet (Login et mot de passe joueur)
----login : ajoueur
----mot de passe : ajoueur
+---login : joueur
+---mot de passe : joueur
 
 
 ----------Les principales fonctionnalités du projet
