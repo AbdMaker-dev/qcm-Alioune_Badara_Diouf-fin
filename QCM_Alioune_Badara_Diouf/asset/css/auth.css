@@ -1,0 +1,86 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+body{
+	width: 100%;
+	margin: 0%;
+	padding: 0%;
+	background-size: cover;
+	
+}
+#container{
+	width: 80%;
+	margin-left: 10%;
+	background-color: #F8F8FF;
+	padding-bottom: 10px;
+}
+#block-img{
+	width: 22%;
+	margin-top: 0px;
+}
+#block-img img{
+	width:90%;
+	height: 200px;
+	border-radius: 200px;
+}
+#log{
+	width: 3%;
+}
+#entet{
+	width: 100%;
+	height: 50px;
+	background-color: #00BFFF;
+	 padding-top: 20px;
+	color: white;
+}
+#h3entet{
+	margin-left: 10px;
+}
+#fomrContainer{
+	width: 100%;
+	padding-top: 20px;
+}
+form{
+	width: 100%;
+	margin-left: 10px;
+}
+.iconForm{
+	position: relative;
+	left: 80%;
+}
+.inputConyainer{
+	width: 100%;
+	margin-top: 30px;
+}
+.inputConyainer2{
+	margin-left:3%;
+	display: flex;
+}
+label{
+	width: 80%;
+	height: 30px;color:red;
+	margin-left: 3%;
+	font-size: 0.7em;
+}
+.input{
+	padding-left: 10px;
+	width: 80%;
+	height: 50px;
+	background-color:#F5F5F5;
+}
+a{
+	text-decoration: none;
+	margin-top: 15px;
+	margin-left: 30px;
+	color:#A9A9A9;
+}
+#sub{
+	width: 20%;height: 50px;
+	background-color:#00BFFF;
+	color: white;
+}
+.header h2{
+	position: relative;
+	top:20px;
+}

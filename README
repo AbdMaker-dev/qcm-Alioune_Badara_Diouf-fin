@@ -1,0 +1,41 @@
+Contenu du fichier « README »
+
+---------Titre du projet
+---QUIZZ
+
+---------Auteur du projet
+---ALIOUNE BADARA DIOUF
+
+---------Un paragraphe résumant adéquatement le projet.
+Réalisation d’une application de jeu de questionnaires. appartire de la quel nous avons des admins qui cree modifie et supprime les questions
+ 
+----------Téléchager le projet sur GitHub 
+---
+
+---------- Le lien d’hébergement du projet
+--- https://sonatel-projet.000webhostapp.com/
+
+----------Tous les paramètres de connexion pour le teste du projet (Login et mot de passe Admin)
+---login : admin
+---mot de passe : admin
+
+----------Tous les paramètres de connexion pour le teste du projet (Login et mot de passe joueur)
+---login : ajoueur
+---mot de passe : ajoueur
+
+
+----------Les principales fonctionnalités du projet
+---connection
+---inscription
+---deconnexion
+---sauvegarde dans les fichiers json
+---operation CRUD(Creer, supprimer, lire, actualier) les données utilisateur et questions
+
+-----------Les languages utilisées dans le projet
+---PHP 7
+---HTML5
+---CSS3
+---Javascript
+---Editeure de text : vs code
+
+

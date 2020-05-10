@@ -1,0 +1,219 @@
+.entete .photoj{
+	width: 6%;
+	margin-left: 1%;
+
+}
+.entete .photoj img{
+	width: 100%;
+	border-radius: 50%;
+}
+.descriptionj{
+	display: flex;
+}
+.descriptionj em {
+	margin-left: 5px;
+}
+.titreEtform{
+	width: 90%;
+	float: left;
+}
+.titreEtform h3{
+	width: 80%;
+}
+.titreEtform form{
+	width: 6%;
+	float: right;
+}
+.crp{
+	background-color: #c8c7c7;
+}
+#div{
+	width: 99%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(236, 232, 232);
+	margin-top: 10px;
+	padding-top: 20px;
+	display: flex;
+	padding-bottom: 20px;
+}
+#divGauche{
+	width: 55%;
+	position: relative;
+	left: 0.5%;
+	border: 1px solid rgba(4, 163, 163, 0.733);
+	padding-bottom: 20px;
+}
+#divGauche #partieH{
+	width: 99%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	background-color: #c8c7c7;
+	position: relative;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+#partieScor{
+	width: 99%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	background-color: rgba(49, 163, 4, 0.733);
+	position: relative;
+	padding-top: 10px;
+	padding-bottom:10px;
+	text-align: center;
+}
+#partieScore{
+	border: 1px solid red;
+	width: 100%;
+}
+#questions{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#questions form{
+	width:100%;
+	margin-top: 20px;
+}
+#questions form .chk{
+	width: 10%;
+	height: 25px;
+	position: relative;
+	top: 5px;
+}
+#questions form .txt{
+	width: 50%;
+	height: 25px;
+	position: relative;
+	top: 5px;
+	left: 20px;
+}
+.itemQues{
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+label{
+	position: relative;
+	left: 20px;
+}
+#bntpre{
+	float: left;
+	width: 20%;
+	height: 40px;
+	background-color: gray;
+}
+#bntSui{
+	float: right;
+	width: 20%;
+	height: 40px;
+	background-color:  rgba(4, 163, 163, 0.733);
+}
+#table{
+	width: 100%;
+}
+#divDroite{
+	width: 30%;
+	position: relative;
+	left: 5%;
+	border: 1px solid rgba(4, 163, 163, 0.733);
+	padding-bottom: 0%;
+}
+#divDroite nav ul li{
+	float: left;
+	margin-left: 20px;
+	padding: 10px;
+	list-style: none;
+}
+#divDroite nav ul li a{
+	text-decoration: none;
+}
+#divDroite #table table{
+	width: 100%;
+	text-align: center;
+	
+}
+#divDroite #table table tr{
+	width: 100%;
+	text-align:left;
+	
+	
+}
+#divDroite div table tr td{
+	width:33%;
+	left: 10%;
+	font-size: 0.8em;
+	text-align: center;
+	padding-bottom: 10px;
+}
+.scoreOrange{
+	border-radius: 2px;
+	border-bottom: 3px solid chocolate;
+	padding-bottom: 5px;
+}
+.scoreRouge{
+	border-radius: 2px;
+	border-bottom: 3px solid red;
+	padding-bottom: 5px;
+}
+.scoreBleu{
+	border-radius: 2px;
+	border-bottom: 3px solid blue;
+	padding-bottom: 5px;
+}
+.scoreGreen{
+	border-radius: 2px;
+	border-bottom: 3px solid green;
+	padding-bottom: 5px;
+}
+.pts{
+	float: right;
+	width: 10%;
+}
+.itemQues img{
+	position: relative;
+	left: 6%;
+	top: 15px;
+	height: 50px;
+}
+#lamain img{
+    position: relative;
+	left: 7%;
+	top: 10px;
+}
+#lamain h4{
+	font-style: italic;
+	font-size:1.5em;
+	color:green;
+}
+
+.tablink {
+	background-color: rgb(236, 232, 232);;
+	color: black;
+	position: relative;
+	right: 14%;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	font-size: 17px;
+	width: 50%;
+  }
+  .tablink:hover {
+	background-color: #777;
+  }
+  .tabcontent {
+	color: black;
+	display: none;
+  }
+  #Home {background-color: white;}
+  #News {background-color: white;}
+  
+
+
+
+
